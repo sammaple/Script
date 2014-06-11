@@ -1,5 +1,10 @@
 #!/bin/sh
 #
+#
+#tips:
+# in etc/rc.d/rc.local add 
+#./etc/rc.d/webservices.sh
+#
 #folder list tree
 #
 #tomcat
