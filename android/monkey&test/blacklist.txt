@@ -1,0 +1,4 @@
+com.sohutv.tv
+com.android.settings
+com.xunlei.kankan.tv
+com.yunos.app.photoplayer

@@ -1,0 +1,1 @@
+monkey --pkg-blacklist-file /mnt/sdcard/blacklist.txt -s 1000 --ignore-crashes --ignore-timeouts --ignore-security-exceptions --pct-trackball 0 --pct-nav 0 --pct-majornav 0 --pct-anyevent 0 -v -v -v --throttle 500 1200000000 > /mnt/sdcard/monkey.log 2>&1 &
