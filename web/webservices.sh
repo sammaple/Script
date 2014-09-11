@@ -33,5 +33,6 @@ pwd
 ./startup.sh
 cd -
 
-
+#start mysql
+service mysqld start
 
